@@ -4,7 +4,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Fadzar Surya Wijaya|312310451|TI.23.A.5|Basis Data|
+|Rafflianda Barus|312310477|TI.23.A.5|Basis Data|
 
 # Table
 ![alt text](Gambar/tabel.png)
